@@ -1,0 +1,27 @@
+.start h1{
+    font-size: 6em;
+
+}
+
+.start p {
+    margin: 3em 0 2em 0;
+    color: white;
+    font-size:  2em;
+}
+
+.start button{
+    width: 40%;
+    height: 3rem;
+    border-radius: 10px 0 10px 0;
+    background-color: rgb(196, 196, 196);
+    transition: 0.3s;   
+    font-size: 2em;
+    cursor: pointer;
+}
+
+.start button:hover{
+    background-color: antiquewhite;
+    color: #333;
+    transition: 0.3s;   
+    transform: scale(1.2);
+}
